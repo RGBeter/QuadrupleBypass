@@ -2,7 +2,7 @@
 Update to the triple bypass mod for the genesis with intentions of on board composite and S-Video generation for all models, ensuring complete functionality of the din for all genesis systems.
 
 All Genesis/Mega Drive revision instructions are linked below:
-
+(need to update links and re-write documentation due to changes)
 ## Model 1 Installation Guides
 [Model 1 - VA1-VA6](https://github.com/zaxour/TripleBypassV2Plus/blob/main/Documentation/3BP%20-%20M1VA0-VA6.pdf) 
 
