@@ -10,7 +10,9 @@ All Genesis/Mega Drive revision instructions are linked below:
 [Model 2 - VA0-1.8]
 
 [Model 2 - VA2]
+
 [Model 2 - VA2.3]
+
 [Model 2 - VA3]
 
 [Model 2 - VA4]
