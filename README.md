@@ -1,4 +1,4 @@
-# Triple Bypass V3
+# Quadrouple Bypass
 Update to the triple bypass mod for the genesis with intentions of on board composite and S-Video generation for all models, ensuring complete functionality of the din for all genesis systems.
 
 All Genesis/Mega Drive revision instructions are linked below:
